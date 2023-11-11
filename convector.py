@@ -14,6 +14,7 @@ X, Y = 700, 700
 """главное окно"""
 
 
+
 class Main_window(QMainWindow):
     def __init__(self, position):
         super().__init__()
